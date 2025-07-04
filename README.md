@@ -5,7 +5,7 @@
 |----------------|--------------------------------------------|----------------------------------------------------------------------|--------------------------------|------------|
 | Greedy         | Assign Cookies                             | [Problem Link](https://leetcode.com/problems/assign-cookies)         | [assign-cookies.py](./greedy/assign-cookies.py) | Easy |
 | Greedy         | Lemonade Change                            | [Problem Link](https://leetcode.com/problems/lemonade-change)        |                                | Easy |
-| Greedy         | Best Time to Buy and Sell Stock II         | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |                                | Easy |
+| Greedy         | Best Time to Buy and Sell Stock II         | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [best-time-to-buy-and-sell-stock-ii.py](./greedy/best-time-to-buy-and-sell-stock-ii.py) | Easy |
 | Greedy         | Can Place Flowers                          | [Problem Link](https://leetcode.com/problems/can-place-flowers/)     |                                | Easy |
 | Greedy         | Maximum Subarray (Kadane’s Algorithm)      | [Problem Link](https://leetcode.com/problems/maximum-subarray/)      |                                | Easy |
 
@@ -13,7 +13,7 @@
 
 | Algorithm Type | Title                                      | Link                                                                 | Solution                       | Difficulty |
 |----------------|--------------------------------------------|----------------------------------------------------------------------|--------------------------------|------------|
-| BFS / DFS      | Flood Fill                                 | [Problem Link](https://leetcode.com/problems/flood-fill/)            |                                | Easy |
+| BFS / DFS      | Flood Fill                                 | [Problem Link](https://leetcode.com/problems/flood-fill/)            |[flood-fill.py](./BFS&DFS/flood-fill.py)| Easy |
 | BFS / DFS      | Number of Islands                          | [Problem Link](https://leetcode.com/problems/number-of-islands/)     |                                | Easy |
 | BFS / DFS      | Maximum Depth of Binary Tree               | [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |                          | Easy |
 | BFS / DFS      | Symmetric Tree                             | [Problem Link](https://leetcode.com/problems/symmetric-tree/)        |                                | Easy |
@@ -23,7 +23,7 @@
 
 | Algorithm Type       | Title                                 | Link                                                                 | Solution                       | Difficulty |
 |----------------------|---------------------------------------|----------------------------------------------------------------------|--------------------------------|------------|
-| Dynamic Programming  | Climbing Stairs                       | [Problem Link](https://leetcode.com/problems/climbing-stairs/)       |                                | Easy |
+| Dynamic Programming  | Climbing Stairs                       | [Problem Link](https://leetcode.com/problems/climbing-stairs/)       | [climbing-stairs.py](./dynamic_programming/climbing-stairs.py) | Easy |
 | Dynamic Programming  | House Robber                          | [Problem Link](https://leetcode.com/problems/house-robber/)          |                                | Easy |
 | Dynamic Programming  | Best Time to Buy and Sell Stock       | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |                     | Easy |
 | Dynamic Programming  | Maximum Subarray                      | [Problem Link](https://leetcode.com/problems/maximum-subarray/)      |                                | Easy |
